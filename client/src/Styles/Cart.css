@@ -1,0 +1,105 @@
+.button-product {
+    margin-top: 10px;
+    background: #ce1ed0;
+    border-radius: 999px;
+    box-shadow: #5E5DF0 0 10px 20px -10px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 20px;
+    opacity: 1;
+    outline: 0 solid transparent;
+    padding: 8px 18px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: fit-content;
+    word-break: break-word;
+    border: 0;
+  }
+
+  .cart-btn{
+    background-color: #fff;
+    font-weight: bold;
+    color: black;
+    height: 24px;
+    line-height: 10px;
+    padding: 2px 2px;
+    display: inline-block;
+    width: 20px;
+    box-shadow: none;
+    border: 1px solid #b4b1b1;
+    margin-top: -3px;
+  }
+  .deletecart{
+    color : gray
+  }
+  .deletecart:hover{
+    color : #3e3bda;
+    cursor: pointer;
+  }
+
+  .applycoupon{
+    border: 1px dashed #a9abb2;
+    color: #535665;
+    font-size: 14px;
+    -ms-flex-align: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 0 15px;
+    margin: 0 0 15px;
+    font-weight: 500;
+    line-height: 47px;
+    display : flex;
+    text-align: justify;
+  }
+  .applycoupon:hover{
+    box-shadow: 0px 1px 5px #00000029;
+  }
+  .coupontext {
+   display:  flex;
+    border: none!important;
+    width: 410px;
+    margin: 14px 0 14px;
+    
+    float: left;
+    height: 46px;
+    background-color: #fafafa!important;
+  }
+  .couponinput{
+    width: 100%;
+    border: 1px solid #E6E6E6;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .couponcode {
+    width: 100%;
+    padding: 0 10px 0!important;
+    background-color: #fafafa!important;
+    height: 44px!important;
+    margin-bottom: 0;
+    border: none;
+    outline: none;
+    font-size: 18px;
+  }
+  .btn-s3{
+    width: 25%;
+    margin-left: auto;
+  }
+  .btn-apply {
+    font-size: 17px;
+    text-transform: uppercase;
+    width: 100%;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    color: #fff;
+    background: #4a7deb;
+    float: right;
+    line-height: 31px;
+    padding: 8px 16px;
+  }

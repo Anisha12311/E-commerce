@@ -1,0 +1,58 @@
+export const Data =  [
+    {
+      id: 1,
+      title: "Epitome Butterscotch Cake",
+      price: 734,
+      img: "https://th.bing.com/th/id/OIP.ortpgc3vHuk_bUOnD01mkgHaJ4?pid=ImgDet&rs=1",
+      quantity: 1,
+    },
+    {
+      id: 2,
+      title: "Rose and flower cake",
+      price: 632,
+      img: "https://i.pinimg.com/originals/c6/b7/ef/c6b7ef0172379d56bbb2d678cb615a83.jpg",
+      quantity: 1,
+    },
+    {
+      id: 3,
+      title: "Toothsome cake",
+      price: 587,
+      img: "https://th.bing.com/th/id/OIP.pdR3LMoMHmnZKIJjo1A2BgHaHa?pid=ImgDet&rs=1",
+      quantity: 1,
+    },
+    {
+      id: 4,
+      title: "Flower And Nut Cake",
+      price: 412,
+      img: "https://i.pinimg.com/originals/0f/8d/87/0f8d87fe70159b16d7fcd74a5042205a.jpg",
+      quantity: 1,
+    },
+    {
+      id: 5,
+      title: "Delicious Rasmalai Cake",
+      price: 498,
+      img: "https://image3.mouthshut.com/images/Restaurant/Photo/-98388_171819.jpg",
+      quantity: 1,
+    },
+    {
+      id: 6,
+      title: "Rasmalai Cake",
+      price: 398,
+      img: "https://th.bing.com/th/id/OIP.BfULa3smEmK6u1lwKmaXFQAAAA?pid=ImgDet&w=400&h=400&rs=1",
+      quantity: 1,
+    },
+    {
+      id: 7,
+      title: "Chocalate Cake",
+      price: 708,
+      img: "https://th.bing.com/th/id/OIP.pdYi4FK708vS9oyiqEpEwwHaGe?pid=ImgDet&rs=1",
+      quantity: 1,
+    },
+    {
+      id: 8,
+      title: "Mixed fruits Cake",
+      price: 508,
+      img: "https://th.bing.com/th/id/OIP.OVMGifGJESYMVXSh6YuTgAHaJS?pid=ImgDet&rs=1",
+      quantity: 1,
+    },
+  ]
