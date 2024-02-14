@@ -40,7 +40,7 @@ const OrderSummary = () => {
   useEffect(() => {
     dispatch(gettotalcart());
   }, [cart]);
-console.log("LOgs")
+
   const handleApply = async () => {
     const fetchApi = await axios.post("http://localhost:4000/discount", {
       code : input
