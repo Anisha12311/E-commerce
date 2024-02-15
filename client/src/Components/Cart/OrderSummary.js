@@ -51,14 +51,8 @@ console.log("LOgs")
     setOpen(false);
 
   };
-console.log("1234567")
+console.log("Hello world")
 
-console.log("Testing")
-console.log("Testing")
-console.log("bug")
-
-console.log("bug")
-console.log("bug")
   const handleClickOpen = () => {
     setOpen(true);
   };
