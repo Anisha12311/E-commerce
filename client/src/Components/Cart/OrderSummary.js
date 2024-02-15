@@ -51,7 +51,7 @@ console.log("LOgs")
     setOpen(false);
 
   };
-console.log("Hello world")
+console.log("Common structure")
 
   const handleClickOpen = () => {
     setOpen(true);
